@@ -32,3 +32,7 @@ Events are attached on InsertSymbolTool._activate() and detached on InsertSymbol
 ### Added dependencies
 
 No added dependencies
+
+## Example 
+
+![Insert symbol](./../../assets/insert-symbol.JPG)
